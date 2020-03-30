@@ -1,0 +1,26 @@
+body{
+	background-image: url(https://cdn2-www.superherohype.com/assets/uploads/gallery/crisis-on-earth-x/23847223_10155908669912436_8272982042695884468_o.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#h1{
+    text-align: center;
+    color: aqua;
+    margin-top: 50px;
+    font-size: 30px;
+}
+#p1{
+	text-align: center;
+    color: black;
+    font-size: 29px;
+}
+#p2{
+	text-align: center;
+    color: aqua;
+    font-size: 32px;
+}
+#p3{
+	text-align: center;
+    color: black;
+    font-size: 29px;
+}
