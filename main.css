@@ -5,22 +5,26 @@ body{
 }
 #h1{
     text-align: center;
-    color: aqua;
+    color: #A0000F;
     margin-top: 50px;
-    font-size: 30px;
+    font-size: 40px;
 }
 #p1{
 	text-align: center;
     color: black;
-    font-size: 29px;
+    font-size: 40px;
+    margin-top: 39px;
 }
 #p2{
 	text-align: center;
-    color: aqua;
+    color: #A0000F;
     font-size: 32px;
 }
 #p3{
 	text-align: center;
     color: black;
     font-size: 29px;
+}
+#div2{
+
 }
