@@ -28,3 +28,69 @@ body{
 #div2{
 
 }
+#p4{
+   text-align: center;
+   color: black;
+   font-size: 29px;
+   margin-block-start: 0.1em;
+   margin-block-end: 0.1em;
+}
+#p5{
+	text-align: center;
+    color: #A0000F;
+    font-size: 32px;
+    margin-block-start: 0.1em;
+    margin-block-end: 0.1em;
+}
+#div3{
+	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(194,0,0,1) 50%, rgba(227,0,0,1) 100%);
+	margin-left: -8px;
+	margin-right: -8px;	
+}
+#div4{
+
+}
+#p6{
+	text-align: center;
+    color: #005900;
+    font-size: 32px;
+}
+#p7{
+    text-align: center;
+    color: #143A54;
+    font-size: 32px;
+}
+#p8{
+    text-align: center;
+    color: #005900;
+    font-size: 32px;
+    margin-block-start: 0.1em;
+    margin-block-end: 0.1em;
+}
+#p9{
+    text-align: center;
+    color: #143A54;
+    font-size: 32px;
+    margin-block-start: 0.1em;
+    margin-block-end: 0.1em;
+}
+#div5{
+	background: linear-gradient(90deg, rgba(0,255,214,1) 0%, rgba(0,185,74,1) 50%, rgba(0,199,30,1) 100%);
+	margin-left: -8px;
+	margin-right: -8px;	
+}
+#p10{
+	text-align: center;
+    color: #36002B;
+    font-size: 32px;
+}
+#p11{
+	text-align: center;
+    color: #BE3081;
+    font-size: 32px;
+}
+#div6{
+	background: linear-gradient(90deg, rgba(205,0,255,1) 0%, rgba(185,0,147,1) 50%, rgba(199,0,84,1) 100%);
+	margin-left: -8px;
+	margin-right: -8px;	
+}
