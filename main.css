@@ -7,7 +7,7 @@ body{
     text-align: center;
     color: #A0000F;
     margin-top: 50px;
-    font-size: 40px;
+    font-size: 45px;
 }
 #p1{
 	text-align: center;
@@ -93,4 +93,48 @@ body{
 	background: linear-gradient(90deg, rgba(205,0,255,1) 0%, rgba(185,0,147,1) 50%, rgba(199,0,84,1) 100%);
 	margin-left: -8px;
 	margin-right: -8px;	
+}
+#p62{
+	text-align: center;
+    color: #005900;
+    font-size: 40px;
+    font-style: oblique;
+}
+#p102{
+	text-align: center;
+    color: #36002B;
+    font-size: 40px;
+    font-style: oblique;
+}
+#p22{
+	text-align: center;
+    color: #A0000F;
+    font-size: 40px;
+    font-style: oblique;
+}
+#p112{
+	text-align: center;
+    color: #A65200;
+    font-size: 40px;
+    font-style: oblique;
+}
+#div7{
+	background: linear-gradient(90deg, rgba(199,0,84,1) 0%, rgba(185,0,147,1) 50%, rgba(205,0,255,1) 97%);
+	margin-left: -8px;
+	margin-right: -8px;	
+}
+#div8{
+	background: linear-gradient(90deg, rgba(11,199,0,1) 0%, rgba(0,185,111,1) 50%, rgba(0,255,239,1) 100%);
+	margin-left: -8px;
+	margin-right: -8px;	
+}
+#p13{
+	text-align: center;
+    color: #A65200;
+    font-size: 32px;
+}
+#p12{
+	text-align: center;
+    color: #577B1F;
+    font-size: 32px;
 }
